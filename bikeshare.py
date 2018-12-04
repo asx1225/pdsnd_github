@@ -26,7 +26,7 @@ def get_filters():
             CITY_DATA[city]
             break
         except KeyError:
-            print("Please enter another city !")
+            print("OOPS! You must have a typo, please enter one more time!")
 
     filter_selection=input("Do you need filter for month and day ? (yes/no)")
     if filter_selection.lower()=='yes':
