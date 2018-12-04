@@ -21,7 +21,9 @@ Second, want to becoming a *Git Pro*
 **5.washington**
 
 ### Credits
-Stackoverflow is very helpful
+[Stackoverflow](https://stackoverflow.com) is very helpful
 
 ATOM is very useful 
+
+![images](https://user-images.githubusercontent.com/45216393/49346787-504d7100-f64c-11e8-9028-e5b02257311a.jpg)
 
