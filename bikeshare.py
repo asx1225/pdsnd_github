@@ -33,24 +33,24 @@ def get_filters():
         while True:
             try:
                 month_input=str(input("Please input a month from Jan to Jun with 3 letters or all :"))
-                M=month_input.lower()
-                month=month_list[M]
+
+                month=month_list[month_input.lower()]
                 break
             except KeyError:
                 print("please enter valid month !")
         while True:
             try:
                 day_input=str(input("Please input a day from mon to sun with 3 letters or everyday :"))
-                J=day_input.lower()
-                day=day_list[J]
+
+                day=day_list[day_input.lower()]
                 break
             except KeyError:
                 print("please enter valid day !")
     # TO DO: get user input for month (all, january, february, ... , june)
     # TO DO: get user input for day of week (all, monday, tuesday, ... sund
         city=city_input.lower()
-        month=month_list[M]
-        day=day_list[J]
+        month=month_list[month_input.lower()]
+        day=day_list[day_input.lower()]
     if filter_selection.lower()=='no':
         city=city_input.lower()
         month=month_list['all']
