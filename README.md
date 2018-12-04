@@ -1,8 +1,9 @@
 ### Date created
-Include the date you created this project and README file.
+12/03/2018
 
 ### Project Title
-Replace the Project Title
+Final **Git** Project
+----I am making **bikshare** *better* and *better* 
 
 ### Description
 Describe what your project is about and what it does
