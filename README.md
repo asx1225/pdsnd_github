@@ -21,5 +21,7 @@ Second, want to becoming a *Git Pro*
 **5.washington**
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Stackoverflow is very helpful
+
+ATOM is very useful 
 
